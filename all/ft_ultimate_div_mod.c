@@ -10,6 +10,8 @@
 /*                                                                            */
 /* ************************************************************************** */
 
+// passe dans a la division et dans b le chiffre apres la virgule
+
 void	ft_ultimate_div_mod(int *a, int *b)
 {
 	int var_a;
